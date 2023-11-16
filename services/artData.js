@@ -7,8 +7,7 @@ function getAllArt() {
 }
 
 function getArtByID (id) {
-    const artFilteredByID = arts.filter((art) => art.id === id)[0]
-
+    const artFilteredByID = arts.filter((art) => art.id == id)
     return artFilteredByID
 }
 
