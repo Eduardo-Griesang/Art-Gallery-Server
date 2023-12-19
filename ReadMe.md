@@ -10,7 +10,7 @@ In the project directory, you can run:
 node app.js
 ```
 
-This will run the API localy on [http://localhost:8000/art](http://localhost:8000/art) where you can see all the art data stored on the JSON.
+This will run the API locally on [http://localhost:8000/art](http://localhost:8000/art) where you can see all the art data stored on the JSON.
 
 ## Available HTTP methods
 
